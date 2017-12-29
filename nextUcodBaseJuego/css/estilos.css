@@ -26,6 +26,14 @@ body{
   width: 100%;
 }
 
+.main-finish{
+  font-family: gameFont;
+  text-align: center;
+  font-size: 3em;
+  color: #DCFF0E;
+  width: 100%;
+}
+
 .panel-tablero{
   width: 70%;
   border: 10px solid #E87306;
